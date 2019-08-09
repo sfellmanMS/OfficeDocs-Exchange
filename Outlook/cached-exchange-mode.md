@@ -34,7 +34,7 @@ Cached Exchange Mode is the preferred configuration in Outlook 2016 and is usefu
 
 - Users who frequently move in and out of connectivity.
 - Users who frequently work offline or without connectivity.
-- Users who have high-latency connections (greater than 500 ms) to Exchange Server.
+- Users who have high-latency connections (greater than 50 ms) to Exchange Server.
 
 Online mode is useful in the following situations:
 
